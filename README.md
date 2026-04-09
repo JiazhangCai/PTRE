@@ -217,4 +217,4 @@ This project is released under the MIT License — see [`LICENSE`](LICENSE).
 
 ## Contact
 
-Jiazhang Cai — caijiazhang1 [at] gmail [dot] com
+Jiazhang Cai — jc27544@uga.edu
