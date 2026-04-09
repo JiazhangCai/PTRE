@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below and this repository."
+title: "PTRE: Pseudo-Time Reconstruction for Epidemics"
+abstract: "An analytical pipeline that constructs a one-dimensional latent ordering of confirmed cases from contact-tracing records by integrating individual-level attributes with contact-network summaries, in order to refine transmission-direction inference under onset-time ambiguity."
+authors:
+  - family-names: "Cai"
+    given-names: "Jiazhang"
+repository-code: "https://github.com/JiazhangCai/PTRE"
+license: MIT
+type: software
+preferred-citation:
+  type: article
+  title: "Pseudo-Time Reconstruction for Epidemics: a network-aware framework for refining transmission-direction inference under onset-time ambiguity"
+  authors:
+    - family-names: "Cai"
+      given-names: "Jiazhang"
+  year: 2026
+  notes: "Manuscript under revision."
